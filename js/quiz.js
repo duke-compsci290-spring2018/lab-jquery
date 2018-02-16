@@ -1,5 +1,5 @@
 /*
- * Simple quiz generator.
+ * Simple quiz generator in JavaScript.
  *
  * @author Robert C. Duvall
  */
